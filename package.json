@@ -1,0 +1,19 @@
+{
+  "name": "academic-api",
+  "version": "1.0.0",
+  "description": "Academic api for students and teachers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "academic",
+    "rest",
+    "api",
+    "teachers",
+    "student",
+    "course"
+  ],
+  "author": "David Salazar Garcia",
+  "license": "ISC"
+}
